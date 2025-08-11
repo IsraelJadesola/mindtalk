@@ -140,15 +140,16 @@
   }
   .div4-wrap {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     row-gap: 90px;
   }
   .div4-div1 {
-    width: calc(50% - 30px);
+    width: calc(100%);
   }
   .div4-div1-div1 {
-    height: 22em;
+    height: 24em;
   }
 
   .div5-p {
