@@ -130,6 +130,12 @@ nav ul li:hover {
   text-align: center;
   margin-top: 150px;
   margin-bottom: 80px;
+  text-align: center;
+}
+
+.div3 img {
+  width: 80%;
+  height: 50px;
 }
 
 .div3-p1 {
