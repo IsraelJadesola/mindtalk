@@ -135,6 +135,10 @@
     width: 80%;
   }
 
+  .div4 {
+    padding: 70px 30px;
+  }
+
   .div4-p {
     text-align: center;
   }
@@ -149,7 +153,7 @@
     width: calc(100%);
   }
   .div4-div1-div1 {
-    height: 24em;
+    height: 20em;
   }
 
   .div5-p {
